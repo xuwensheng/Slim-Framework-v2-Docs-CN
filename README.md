@@ -2,7 +2,13 @@
 
 ## 简介
 
+本项目是对 [Slim User Guide](http://docs.slimframework.com/) 的中文翻译，欢迎加入。
+
+originals文件夹下是对原文整理之后形成的文档,translations文件夹下是对应的中文翻译文档。
+
+## 目录
+
 ## Copyright & License
 
-Clove is released under the [MIT License](http://mit-license.org/). See the bundled LICENSE file for 
+[Slim-Framework-v2-Docs-CN](https://github.com/xuwensheng/Slim-Framework-v2-Docs-CN) is released under the [MIT License](http://mit-license.org/). See the bundled LICENSE file for 
 details.
