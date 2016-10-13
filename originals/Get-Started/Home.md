@@ -1,4 +1,5 @@
-` This documentation is for Slim 3. The Slim 2 documentation is available at docs.slimframework.com. `
+`This documentation is for Slim 3. The Slim 2 documentation is available at docs.slimframework.com.`
+
 Welcome
 Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs. At its core, Slim is a dispatcher that receives an HTTP request, invokes an appropriate callback routine, and returns an HTTP response. That’s it.
 
