@@ -18,7 +18,7 @@ First, you need a web server like Nginx or Apache. You should configure your web
 
 A Slim app contains routes that respond to specific HTTP requests. Each route invokes a callback and returns an HTTP response. To get started, you first instantiate and configure the Slim application. Next, you define your application routes. Finally, you run the Slim application. It’s that easy. Here’s an example application:
 
-```
+```PHP
 <?php
 // Create and configure Slim app
 $config = ['settings' => [
