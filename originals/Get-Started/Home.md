@@ -1,4 +1,4 @@
-`This documentation is for Slim 3. The Slim 2 documentation is available at [docs](http://docs.slimframework.com/).`
+`This documentation is for Slim 3. The Slim 2 documentation is available at <a href="http://docs.slimframework.com/">docs.slimframework.com</a>.`
 
 ### Welcome
 
