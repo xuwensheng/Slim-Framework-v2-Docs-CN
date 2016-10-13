@@ -35,7 +35,7 @@ $app->get('/hello/{name}', function ($request, $response, $args) {
 $app->run();
 ```
 
-Figure 1: Example Slim application
+*Figure 1: Example Slim application*
 
 ### Request and response
 
